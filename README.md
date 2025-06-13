@@ -27,7 +27,7 @@ Other: REST APIs, Competitive Programming, Data Structures & Algorithms
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
+
   <a href="https://www.linkedin.com/in/umang-bishya-718a41289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
